@@ -1,2 +1,2 @@
-# CNN_classification-DenseNet
-DenseNet程序测试，cifar10数据集
+# CNN_classification
+CNN网络测试
